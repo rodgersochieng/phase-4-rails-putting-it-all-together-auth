@@ -5,7 +5,7 @@ class RecipesController < ApplicationController
     
       def create
         recipe = @current_user.recipes.create!(recipe_params)
-        render json: recipe, status: :created
+        render json: recipe, status: :created 
       end
     
       private
