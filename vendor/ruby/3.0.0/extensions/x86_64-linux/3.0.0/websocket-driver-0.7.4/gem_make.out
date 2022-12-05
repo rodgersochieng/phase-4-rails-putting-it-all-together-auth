@@ -1,0 +1,15 @@
+current directory: /home/moringa/Desktop/Rails/phase-4-rails-putting-it-all-together-auth/vendor/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+/home/moringa/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/moringa/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20221205-46450-1o0047.rb extconf.rb
+creating Makefile
+
+current directory: /home/moringa/Desktop/Rails/phase-4-rails-putting-it-all-together-auth/vendor/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/moringa/Desktop/Rails/phase-4-rails-putting-it-all-together-auth/vendor/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/moringa/Desktop/Rails/phase-4-rails-putting-it-all-together-auth/vendor/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20221205-46450-80v1ly
